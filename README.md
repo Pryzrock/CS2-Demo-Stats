@@ -8,7 +8,7 @@
 
 Готовая версия для Windows — без установки Python, просто скачать и запустить:
 
-**[⬇ Скачать последнюю версию (.exe)](https://github.com/Pryzrock/CS2-Demo-Stats/releases/latest/download/CS2DemoStats.exe)**
+**[⬇ Скачать последнюю версию (.exe)](https://github.com/Pryzrock/CS2-Demo-Stats/releases/latest/download/CS2.Demo.Stats.by.PryZ.v.0.2.3.exe)**
 
 Все версии и история изменений — на странице [Releases](https://github.com/Pryzrock/CS2-Demo-Stats/releases).
 
